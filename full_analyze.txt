@@ -1,0 +1,11 @@
+Analyzing ReLog...                                              
+
+   info • 'AutoDisposeProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/core/ads/ad_service.g.dart:22:24 • deprecated_member_use
+   info • 'AutoDisposeFutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/core/database/isar_service.g.dart:22:19 • deprecated_member_use
+   info • 'AutoDisposeFutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/features/logs/data/logs_repository.g.dart:24:29 • deprecated_member_use
+   info • 'AutoDisposeFutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/features/report/data/report_repository.g.dart:24:31 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/report/presentation/monthly_report_screen.dart:201:24 • deprecated_member_use
+   info • 'Share' is deprecated and shouldn't be used. Use SharePlus instead • lib/features/settings/presentation/settings_screen.dart:21:13 • deprecated_member_use
+   info • 'shareXFiles' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead • lib/features/settings/presentation/settings_screen.dart:21:19 • deprecated_member_use
+
+7 issues found. (ran in 1.0s)

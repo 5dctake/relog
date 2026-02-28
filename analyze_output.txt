@@ -1,0 +1,20 @@
+Analyzing ReLog...                                              
+
+   info • 'AutoDisposeProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/core/ads/ad_service.g.dart:22:24 • deprecated_member_use
+  error • Target of URI doesn't exist: '../domain/app_config.dart' • lib/core/database/app_config_repository.dart:4:8 • uri_does_not_exist
+  error • The name 'AppConfig' isn't a type, so it can't be used as a type argument • lib/core/database/app_config_repository.dart:13:10 • non_type_as_type_argument
+  error • The getter 'appConfigs' isn't defined for the type 'Isar' • lib/core/database/app_config_repository.dart:14:32 • undefined_getter
+  error • The method 'AppConfig' isn't defined for the type 'AppConfigRepository' • lib/core/database/app_config_repository.dart:18:23 • undefined_method
+  error • The getter 'appConfigs' isn't defined for the type 'Isar' • lib/core/database/app_config_repository.dart:20:19 • undefined_getter
+  error • The getter 'appConfigs' isn't defined for the type 'Isar' • lib/core/database/app_config_repository.dart:29:19 • undefined_getter
+   info • 'FutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/core/database/app_config_repository.g.dart:25:34 • deprecated_member_use
+   info • 'FutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/core/database/isar_service.g.dart:22:19 • deprecated_member_use
+   info • 'FutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/features/logs/data/logs_repository.g.dart:23:29 • deprecated_member_use
+   info • 'FutureProviderRef' is deprecated and shouldn't be used. will be removed in 3.0.0. Use Ref instead • lib/features/report/data/report_repository.g.dart:23:31 • deprecated_member_use
+   info • 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre • lib/features/report/presentation/monthly_report_screen.dart:123:62 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/report/presentation/monthly_report_screen.dart:123:77 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/features/report/presentation/monthly_report_screen.dart:184:24 • deprecated_member_use
+   info • 'Share' is deprecated and shouldn't be used. Use SharePlus instead • lib/features/settings/presentation/settings_screen.dart:21:13 • deprecated_member_use
+   info • 'shareXFiles' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead • lib/features/settings/presentation/settings_screen.dart:21:19 • deprecated_member_use
+
+16 issues found. (ran in 1.7s)

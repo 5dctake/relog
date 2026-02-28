@@ -1,0 +1,20 @@
+[INFO] Generating build script...
+[INFO] Generating build script completed, took 114ms
+
+[INFO] Initializing inputs
+[INFO] Reading cached asset graph...
+[INFO] Reading cached asset graph completed, took 58ms
+
+[INFO] Checking for updates since last build...
+[INFO] Checking for updates since last build completed, took 501ms
+
+[INFO] Running build...
+[INFO] Running build completed, took 6ms
+
+[INFO] Caching finalized dependency graph...
+[INFO] Caching finalized dependency graph completed, took 34ms
+
+[SEVERE] isar_generator on lib/features/report/domain/monthly_report.dart (cached):
+
+Null check operator used on a null value
+[SEVERE] Failed after 46ms
